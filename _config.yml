@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            CuongPX
-tagline:          'A Jekyll theme'
+title:            Xuan Cuong Pham
+tagline:          'Lecturer at School of Information and Communication, Water Resources University, Ha Noi, Viet Nam'
 description:      'My Blog'
 url:              http://lanyon.getpoole.com
 
 author:
-  name:           'Cuong PX'
+  name:           'CuongPX'
   url:            https://twitter.com/mdo
 
 paginate:         5
