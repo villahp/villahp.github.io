@@ -1,30 +1,34 @@
 ---
 layout: page
-title: About
+title: About me
 ---
+<!-- <img src="{{ 'me.jpg' | asset_path }}" height="128px"/> -->
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Personal Details
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<ul>
+  <li>Interests:</li>
+	<ul>
+		<li>I enjoy table tennis, swimming and football.</li>
+		<li>I also enjoy reading and traveling.</li>
+    </ul>
+  <li>Nationality: Vietnamese</li>
+  <li>Sex: Male</li>
+  <li>Date of Birth: 10 March 1991</li>
+  <li>Feel free to [contact me](cuongpx@tlu.edu.vn)
+</ul>
 
-There are currently two themes built on Poole:
+## Professional Experience
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* Dec. 2015 - Now: Researcher and Lecturer at School of Information and Technology, HaNoi Water Resources University
+* Jun. 2015 - Dec. 2015: Mobile developer at [Planday](planday.com)  
+* Jun. 2015 - Aug. 2015: Visitor at Griffith University, Queens Land, Australia
+				   
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+## Education Background
+* Sept 2009 - Jun 2015: </br> Bachelor (Honnor) of Science in School of Information and Communication Technology </br> <strong> Hanoi University of Science and Technology (HUST) </strong>
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Scholarships and Certificates
+* Jul. 2013:  SAMSUNG Talent Scholarship 
+* Jun. 2015:  Travel grant to conduct a research project at Griffith University, Australia.
+* Aug. 2015:  Attending Summer School on statistical machine learning, HUST

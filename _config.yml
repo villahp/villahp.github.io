@@ -1,24 +1,62 @@
-# Dependencies
-markdown:         redcarpet
-pygments:         true
-
 # Permalinks
-permalink:        pretty
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+# permalink: "/:title/"
+
+highlighter: pygments
+
+timezone: ICT/Hanoi
+
+# Default YAML frontmatter settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+      
+# Tagging settings
+tag_title_prefix:   "Posts tagged #"
+tag_title_suffix:   ""
+
+# Do not copy these file to the output directory
+exclude: ["transfer.sh", README.md]
 
 # Setup
 title:            Xuan Cuong Pham
-tagline:          'WRU, Ha Noi, Viet Nam'
-description:      'My Blog'
-url:              http://lanyon.getpoole.com
+tagline:          ''
+description:      ''
+url:              
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 author:
   name:           'CuongPX'
-  url:            https://twitter.com/mdo
+  email:          cuongpx@tlu.edu.vn
 
-paginate:         5
+# Google sitemap generation
+gems: [jekyll-paginate]
+
+# Conversion
+markdown:    redcarpet
+excerpt_separator: "<!--break-->"
+
+kramdown:
+  auto_ids: true
+  
+  
+paginate: 5
+paginate_path: "page:num"
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/poole/lanyon
+
