@@ -15,7 +15,7 @@ title: About me
   <li>Nationality: Vietnamese</li>
   <li>Sex: Male</li>
   <li>Date of Birth: 10 March 1991</li>
-  <li>Feel free to [contact me](cuongpx@tlu.edu.vn)
+  <li>Feel free to <a href="mailto:cuongpx@tlu.edu.vn">contact me</a>
 </ul>
 
 ## Professional Experience
