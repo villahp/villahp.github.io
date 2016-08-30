@@ -8,7 +8,7 @@ title: Teaching
 
 ### 2. [Tin học đại cương](/teaching/tdc.html)
 
-### 3. Lý thuyết tính toán (Comming soon)
+### 3. [Lý thuyết tính toán](/teaching/lttt.html)
 
 
 
