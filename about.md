@@ -31,3 +31,4 @@ title: About me
 * Jul. 2013:  SAMSUNG Talent Scholarship 
 * Jun. 2015:  Travel grant to conduct a research project at Griffith University, Australia.
 * Aug. 2015:  Attending Summer School on statistical machine learning, HUST
+* Aug. 2016:  Attending Summer School on Data Mining, VNU-UET
