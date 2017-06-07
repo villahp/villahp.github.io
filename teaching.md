@@ -4,11 +4,9 @@ title: Teaching
 ---
  
 (Dành cho sinh viên)
-### 1. Tin học văn phòng (Coming soon)
+### 1. [Tin học đại cương](/teaching/tdc.html)
 
-### 2. [Tin học đại cương](/teaching/tdc.html)
-
-### 3. [Lý thuyết tính toán](/teaching/lttt.html)
+### 2. [Lý thuyết tính toán](/teaching/lttt.html)
 
 
 
